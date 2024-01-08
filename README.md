@@ -1,3 +1,8 @@
+### Technologies
+* Python
+* Pandas
+* Cassandra
+  
 ### Project Overview
 
 * I model the data by creating tables in Apache Cassandra to run queries. The project notebook is provided with part of the ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
